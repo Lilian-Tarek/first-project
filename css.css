@@ -23,8 +23,7 @@ body {
 {margin-top: 20px;
   width: 98vw;
 background-color: transparent;
-/* width:99%; */
-/* height: 100%; */
+
 margin-right: auto;
 margin-left:auto;
 height: 100vw;
@@ -40,19 +39,7 @@ height: 100vw;
   
  
 
-}/* medium*/
-/* @media (min-width:992px) */
-/* {.container{
-width:95%;
 }
-} */
-/*large */
-/* @media (max-width:1200px)
-{ .portfolio
-  {
-    height: 100vw;
-  }
-}  */
 
  /* start of header */
 header{
